@@ -27,33 +27,33 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     - List your current skills and areas of expertise.
 
-      -Entry level Javascript programmer
-      -Intermidiate level skills in HTML5.
-      -Intermidiate level skills in CSS3 and Tailwind CSS.
-      -Entry level Responsive Website designer. 
+      - Entry level Javascript programmer
+      - Intermidiate level skills in HTML5.
+      - Intermidiate level skills in CSS3 and Tailwind CSS.
+      - Entry level Responsive Website designer. 
 
     - Identify skills you need to develop or improve.
 
-      -Make better use of Git and Github.
-      -Make use of API's and understand them fully.
-      -Make use of different frameworks for CSS.
-      -Learn React or NodeJs.
+      - Make better use of Git and Github.
+      - Make use of API's and understand them fully.
+      - Make use of different frameworks for CSS.
+      - Learn React or NodeJs.
     
 
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
 
-      -I really enjoy gaming and always wondered how games work and once I found out all wanted to do is learn more about the code world and it's intricacy's.
-      -The world of AI has also caught my attention as I got older technology started to advance in the use of AI, so learning more about how AI works is very much an interest of mine.
-      -The Problem solving in the world of code is also quite enjoyable as I like to be challenged and Improve as much as I possibly can.
+      - I really enjoy gaming and always wondered how games work and once I found out all wanted to do is learn more about the code world and it's intricacy's.
+      - The world of AI has also caught my attention as I got older technology started to advance in the use of AI, so learning more about how AI works is very much an interest of mine.
+      - The Problem solving in the world of code is also quite enjoyable as I like to be challenged and Improve as much as I possibly can.
  
     - What values are important to you in a work environment?
 
-      -Communication
-      -Respect
-      -Flexibility
-      -Open to Collaboration.
+      - Communication
+      - Respect
+      - Flexibility
+      - Open to Collaboration.
       
 
 ### Part 2: Career Exploration Insights
