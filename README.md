@@ -83,18 +83,34 @@ By completing this reflection, you will gain a clearer understanding of your car
     - Reflect on how these industries/roles align with your skills, interests, and values.
       -These roles are all roles wich a programmer could fill based on their prefrence and currently my skills mostly aligns with the Frond Developer route, and that is perfect as I always wanted to start in frontend then later on swicth to a field like game development or Backend development.
     - Identify any gaps or areas for further exploration.
-      -I will have to learn much more in order to become a game dev which is still my ultimate goal, and I also have to more about the backend of programming.
+      - I will have to learn much more in order to become a game dev which is still my ultimate goal, and I also have to more about the backend of programming.
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
     - List your specific, measurable, achievable, relevant, and time-bound goals.
+
+      - I would like to learn a framework such as React or NodeJS.
+      - Learn a few other programming languages such Typescript and C++.
+      - I would also like to land a internship or even a entry level programming job.
+
     - Explain the rationale behind each goal.
+
+      - I believe learning frameworks is very crucial in the world of programming and since I am learn JavaScript right now I believe React or NodeJS is perfect.
+      - While do believ specializing in one language is better then now multiple, I want to learn more languages to see how thy correlate with the one I already know.
+      - I think experience is very important when looking for you Ideal job and that why I believe an internship would help me alot in that aspect.
+
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
+
+      - Be a master in JavaScript.
+      - Have solid Intermidiate Game dev Job that I am happy with.
+
     - Describe how these align with your interests and skills.
+      - I've always enjoyed JavaScaript and diceded early on that I will indeed be Master of the language.
+      - I have always aspired to have a solid consistent programming job as that is all I wanted to have since I decided I wanted to become a game dev.
 
 ### Part 4: Action Plan
 
