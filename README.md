@@ -16,21 +16,45 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name: Lugan Visagie**
+- **Date: 5 March 2024**
+- **Current Role/Position: Student**
+- **Field of Interest: Programming**
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
     - List your current skills and areas of expertise.
+
+      -Entry level Javascript programmer
+      -Intermidiate level skills in HTML5.
+      -Intermidiate level skills in CSS3 and Tailwind CSS.
+      -Entry level Responsive Website designer. 
+
     - Identify skills you need to develop or improve.
+
+      -Make better use of Git and Github.
+      -Make use of API's and understand them fully.
+      -Make use of different frameworks for CSS.
+      -Learn React or NodeJs.
+    
+
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
+
+      -I really enjoy gaming and always wondered how games work and once I found out all wanted to do is learn more about the code world and it's intricacy's.
+      -The world of AI has also caught my attention as I got older technology started to advance in the use of AI, so learning more about how AI works is very much an interest of mine.
+      -The Problem solving in the world of code is also quite enjoyable as I like to be challenged and Improve as much as I possibly can.
+ 
     - What values are important to you in a work environment?
+
+      -Communication
+      -Respect
+      -Flexibility
+      -Open to Collaboration.
+      
 
 ### Part 2: Career Exploration Insights
 
