@@ -149,11 +149,20 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Anticipated Challenges**:
     
     - Identify potential obstacles or challenges in reaching your goals.
+      - Lack of Resources, this could include financial resources, time, access to necessary tools or equipment, or even support from others.
+      - Procrastination, putting off tasks or delaying action can impede my progress  and result in missed opportunities.
     - Consider strategies to overcome these challenges.
+      - Set Clear Priorities, evaluate my commitments and prioritize tasks and activities that align with your goals. Learn to say no to non-essential tasks that may detract from your progress.
+      - Manage Time Effectively, time management techniques such as prioritization, delegation, and time blocking to maximize my productivity and minimize procrastination.
 2. **Opportunities for Growth**:
     
     - Highlight any opportunities you can leverage for career growth.
+      - Networking events at Codespace.
+      - The community frydays.
+      - Meet new more expierenced people and potential employers.
     - Include networking, mentorship, or educational opportunities.
+      - Seek out mentorship relationships with experienced professionals who can provide guidance, advice, and support as you navigate your career path.
+      - Consider pursuing further education, such as a graduate degree or specialized courses, to deepen your expertise and open up new career opportunities.
 
 ### Submission
 
