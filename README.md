@@ -81,7 +81,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
-      -These roles are all roles wich a programmer could fill based on their prefrence and currently my skills mostly aligns with the Frond Developer route, and that is perfect as I always wanted to start in frontend then later on swicth to a field like game development or Backend development.
+      - These roles are all roles wich a programmer could fill based on their prefrence and currently my skills mostly aligns with the Frond Developer route, and that is perfect as I always wanted to start in frontend then later on swicth to a field like game development or Backend development.
     - Identify any gaps or areas for further exploration.
       - I will have to learn much more in order to become a game dev which is still my ultimate goal, and I also have to more about the backend of programming.
 
@@ -117,11 +117,32 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Steps to Achieve Short-term Goals**:
     
     - Detail specific actions or steps needed to achieve each short-term goal.
+
+      - **Sign up to a online course for React/NodeJS.**
+        **Watch youtube tutorials with using React/NodeJS.**
+        **Do my own personal projects with the chosen framework.**
+      - **Sign up to a online course for Typescript/C++.**
+        **Watch youtube tutorials with using Typescript/C++.**
+        **Do my own personal projects with the chosen language.**
+      - **Make github profile look profestional.**
+        **Design a great Portfolio website.**
+        **Network to find employers**
+        **use websites resources like linkendIN to find potential employers**
+        
+
     - Include any resources or support required.
+
+      - Youtube
+      - Scrimba
+      - React/NodeJS
+      - LinkedIn
+
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
+      - Be open to job opportunitys and not be picky as I am still a entry level dev that needs the expierence.
     - Consider additional skills, experiences, or qualifications needed.
+      - Be open to learn from others and maybe find a mentor that will take me under their wing and I can learn more from someone who is a bit more experienced
 
 ### Part 5: Reflection on Challenges and Opportunities
 
