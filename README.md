@@ -44,7 +44,7 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     - Describe your key interests related to your career.
 
-      - I really enjoy gaming and always wondered how games work and once I found out all wanted to do is learn more about the code world and it's intricacy's.
+      - I really enjoy gaming and have always wondered how games work and once I found out all wanted to do is learn more about the code world and it's intricacy's.
       - The world of AI has also caught my attention as I got older technology started to advance in the use of AI, so learning more about how AI works is very much an interest of mine.
       - The Problem solving in the world of code is also quite enjoyable as I like to be challenged and Improve as much as I possibly can.
  
@@ -61,11 +61,29 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Industries and Roles Explored**:
     
     - List the industries or roles you have researched.
+
+      - Software developer.
+      - Frontend developer.
+      - Backend developer.
+      - Game developer.
+      - Cyber Security.
+      - AI development.
+      - Data Analyst.
+
     - Note any particular areas that piqued your interest.
+
+      - Software Developer.
+      - Backend Developer.
+      - Game Developer.
+      - AI Development.
+      - Frontend Developer.
+
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
+      -These roles are all roles wich a programmer could fill based on their prefrence and currently my skills mostly aligns with the Frond Developer route, and that is perfect as I always wanted to start in frontend then later on swicth to a field like game development or Backend development.
     - Identify any gaps or areas for further exploration.
+      -I will have to learn much more in order to become a game dev which is still my ultimate goal, and I also have to more about the backend of programming.
 
 ### Part 3: SMART Career Goals
 
